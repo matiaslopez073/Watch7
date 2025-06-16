@@ -1,0 +1,74 @@
+C:\Users\matia\OneDrive\Escritorio\SIEMENS\Watch7 C\Watch7\Watch7\bin\Debug\Watch7.exe.config
+C:\Users\matia\OneDrive\Escritorio\SIEMENS\Watch7 C\Watch7\Watch7\bin\Debug\Watch7.exe
+C:\Users\matia\OneDrive\Escritorio\SIEMENS\Watch7 C\Watch7\Watch7\bin\Debug\Watch7.pdb
+C:\Users\matia\OneDrive\Escritorio\SIEMENS\Watch7 C\Watch7\Watch7\obj\Debug\Watch7.csproj.AssemblyReference.cache
+C:\Users\matia\OneDrive\Escritorio\SIEMENS\Watch7 C\Watch7\Watch7\obj\Debug\Watch7.csproj.SuggestedBindingRedirects.cache
+C:\Users\matia\OneDrive\Escritorio\SIEMENS\Watch7 C\Watch7\Watch7\obj\Debug\Watch7.FormMain.resources
+C:\Users\matia\OneDrive\Escritorio\SIEMENS\Watch7 C\Watch7\Watch7\obj\Debug\Watch7.Properties.Resources.resources
+C:\Users\matia\OneDrive\Escritorio\SIEMENS\Watch7 C\Watch7\Watch7\obj\Debug\Watch7.csproj.GenerateResource.cache
+C:\Users\matia\OneDrive\Escritorio\SIEMENS\Watch7 C\Watch7\Watch7\obj\Debug\Watch7.csproj.CoreCompileInputs.cache
+C:\Users\matia\OneDrive\Escritorio\SIEMENS\Watch7 C\Watch7\Watch7\obj\Debug\Watch7.exe
+C:\Users\matia\OneDrive\Escritorio\SIEMENS\Watch7 C\Watch7\Watch7\obj\Debug\Watch7.pdb
+C:\Users\matia\OneDrive\Escritorio\SIEMENS\Watch7 C\Watch7\Watch7\obj\Debug\Watch7.FormNewZone.resources
+C:\Users\matlopez\Desktop\SIEMENS WATCH7\Watch7 C\Watch7\Watch7\bin\Debug\Watch7.exe.config
+C:\Users\matlopez\Desktop\SIEMENS WATCH7\Watch7 C\Watch7\Watch7\bin\Debug\Watch7.exe
+C:\Users\matlopez\Desktop\SIEMENS WATCH7\Watch7 C\Watch7\Watch7\bin\Debug\Watch7.pdb
+C:\Users\matlopez\Desktop\SIEMENS WATCH7\Watch7 C\Watch7\Watch7\obj\Debug\Watch7.csproj.AssemblyReference.cache
+C:\Users\matlopez\Desktop\SIEMENS WATCH7\Watch7 C\Watch7\Watch7\obj\Debug\Watch7.FormMain.resources
+C:\Users\matlopez\Desktop\SIEMENS WATCH7\Watch7 C\Watch7\Watch7\obj\Debug\Watch7.FormNewZone.resources
+C:\Users\matlopez\Desktop\SIEMENS WATCH7\Watch7 C\Watch7\Watch7\obj\Debug\Watch7.Properties.Resources.resources
+C:\Users\matlopez\Desktop\SIEMENS WATCH7\Watch7 C\Watch7\Watch7\obj\Debug\Watch7.csproj.GenerateResource.cache
+C:\Users\matlopez\Desktop\SIEMENS WATCH7\Watch7 C\Watch7\Watch7\obj\Debug\Watch7.csproj.CoreCompileInputs.cache
+C:\Users\matlopez\Desktop\SIEMENS WATCH7\Watch7 C\Watch7\Watch7\obj\Debug\Watch7.exe
+C:\Users\matlopez\Desktop\SIEMENS WATCH7\Watch7 C\Watch7\Watch7\obj\Debug\Watch7.pdb
+C:\Users\matlopez\Desktop\SIEMENS WATCH7\Watch7 C\Watch7\Watch7\obj\Debug\Watch7.FormNewInstalacion.resources
+C:\Users\matlopez\Desktop\SIEMENS WATCH7\Watch7 C\Watch7\Watch7\obj\Debug\Watch7.FormNewEquipament.resources
+C:\Users\matlopez\Desktop\SIEMENS WATCH7\Watch7 C\Watch7\Watch7\obj\Debug\Watch7.FormConfigureDB.resources
+C:\Users\matlopez\Desktop\SIEMENS WATCH7\Watch7 C\Watch7\Watch7\obj\Debug\Watch7.FormNewCPU.resources
+C:\Users\matia\OneDrive\Escritorio\SIEMENS WATCH7\Watch7 C\Watch7\Watch7\obj\Debug\Watch7.csproj.AssemblyReference.cache
+C:\Users\matia\OneDrive\Escritorio\SIEMENS WATCH7\Watch7 C\Watch7\Watch7\obj\Debug\Watch7.csproj.SuggestedBindingRedirects.cache
+C:\Users\matia\OneDrive\Escritorio\SIEMENS WATCH7\Watch7 C\Watch7\Watch7\obj\Debug\Watch7.FormMain.resources
+C:\Users\matia\OneDrive\Escritorio\SIEMENS WATCH7\Watch7 C\Watch7\Watch7\obj\Debug\Watch7.FormConfigureDB.resources
+C:\Users\matia\OneDrive\Escritorio\SIEMENS WATCH7\Watch7 C\Watch7\Watch7\obj\Debug\Watch7.FormNewCPU.resources
+C:\Users\matia\OneDrive\Escritorio\SIEMENS WATCH7\Watch7 C\Watch7\Watch7\obj\Debug\Watch7.FormNewEquipament.resources
+C:\Users\matia\OneDrive\Escritorio\SIEMENS WATCH7\Watch7 C\Watch7\Watch7\obj\Debug\Watch7.FormNewInstalacion.resources
+C:\Users\matia\OneDrive\Escritorio\SIEMENS WATCH7\Watch7 C\Watch7\Watch7\obj\Debug\Watch7.FormNewZone.resources
+C:\Users\matia\OneDrive\Escritorio\SIEMENS WATCH7\Watch7 C\Watch7\Watch7\obj\Debug\Watch7.Properties.Resources.resources
+C:\Users\matia\OneDrive\Escritorio\SIEMENS WATCH7\Watch7 C\Watch7\Watch7\obj\Debug\Watch7.csproj.GenerateResource.cache
+C:\Users\matia\OneDrive\Escritorio\SIEMENS WATCH7\Watch7 C\Watch7\Watch7\obj\Debug\Watch7.csproj.CoreCompileInputs.cache
+C:\Users\matia\OneDrive\Escritorio\SIEMENS WATCH7\Watch7 C\Watch7\Watch7\obj\Debug\Watch7.exe
+C:\Users\matia\OneDrive\Escritorio\SIEMENS WATCH7\Watch7 C\Watch7\Watch7\obj\Debug\Watch7.pdb
+C:\Users\matia\OneDrive\Escritorio\SIEMENS WATCH7\Watch7 C\Watch7\Watch7\bin\Debug\Watch7.exe.config
+C:\Users\matia\OneDrive\Escritorio\SIEMENS WATCH7\Watch7 C\Watch7\Watch7\bin\Debug\Watch7.exe
+C:\Users\matia\OneDrive\Escritorio\SIEMENS WATCH7\Watch7 C\Watch7\Watch7\bin\Debug\Watch7.pdb
+C:\Users\matlopez\Desktop\SIEMENS WATCH7\Watch7 C\Watch7\Watch7\obj\Debug\Watch7.FormConfigureOT.resources
+C:\Users\matia\OneDrive\Escritorio\SIEMENS WATCH7\Watch7 C\Watch7\Watch7\obj\Debug\Watch7.FormConfigureOT.resources
+C:\Users\matia\OneDrive\Escritorio\SIEMENS WATCH7\Watch7 C\Watch7\Watch7\obj\Debug\Watch7.FormDeleteCPU.resources
+C:\Users\matia\OneDrive\Escritorio\SIEMENS WATCH7\Watch7 C\Watch7\Watch7\obj\Debug\Watch7.FormDeleteZone.resources
+C:\Users\matia\OneDrive\Escritorio\SIEMENS WATCH7\Watch7 C\Watch7\Watch7\obj\Debug\Watch7.FormDeleteEquipament.resources
+C:\Users\matia\OneDrive\Escritorio\SIEMENS WATCH7\Watch7 C\Watch7\Watch7\obj\Debug\Watch7.FormDeleteInstallation.resources
+C:\Users\matlopez\Desktop\SIEMENS WATCH7\Watch7 C\Watch7\Watch7\obj\Debug\Watch7.FormDeleteCPU.resources
+C:\Users\matlopez\Desktop\SIEMENS WATCH7\Watch7 C\Watch7\Watch7\obj\Debug\Watch7.FormDeleteEquipament.resources
+C:\Users\matlopez\Desktop\SIEMENS WATCH7\Watch7 C\Watch7\Watch7\obj\Debug\Watch7.FormDeleteInstallation.resources
+C:\Users\matlopez\Desktop\SIEMENS WATCH7\Watch7 C\Watch7\Watch7\obj\Debug\Watch7.FormDeleteZone.resources
+C:\Users\matia\OneDrive\Escritorio\SIEMENS WATCH7 2\Watch7 C\Watch7\Watch7\bin\Debug\Watch7.exe.config
+C:\Users\matia\OneDrive\Escritorio\SIEMENS WATCH7 2\Watch7 C\Watch7\Watch7\bin\Debug\Watch7.exe
+C:\Users\matia\OneDrive\Escritorio\SIEMENS WATCH7 2\Watch7 C\Watch7\Watch7\bin\Debug\Watch7.pdb
+C:\Users\matia\OneDrive\Escritorio\SIEMENS WATCH7 2\Watch7 C\Watch7\Watch7\obj\Debug\Watch7.csproj.AssemblyReference.cache
+C:\Users\matia\OneDrive\Escritorio\SIEMENS WATCH7 2\Watch7 C\Watch7\Watch7\obj\Debug\Watch7.csproj.SuggestedBindingRedirects.cache
+C:\Users\matia\OneDrive\Escritorio\SIEMENS WATCH7 2\Watch7 C\Watch7\Watch7\obj\Debug\Watch7.FormMain.resources
+C:\Users\matia\OneDrive\Escritorio\SIEMENS WATCH7 2\Watch7 C\Watch7\Watch7\obj\Debug\Watch7.FormConfigureDB.resources
+C:\Users\matia\OneDrive\Escritorio\SIEMENS WATCH7 2\Watch7 C\Watch7\Watch7\obj\Debug\Watch7.FormConfigureOT.resources
+C:\Users\matia\OneDrive\Escritorio\SIEMENS WATCH7 2\Watch7 C\Watch7\Watch7\obj\Debug\Watch7.FormDeleteCPU.resources
+C:\Users\matia\OneDrive\Escritorio\SIEMENS WATCH7 2\Watch7 C\Watch7\Watch7\obj\Debug\Watch7.FormDeleteEquipament.resources
+C:\Users\matia\OneDrive\Escritorio\SIEMENS WATCH7 2\Watch7 C\Watch7\Watch7\obj\Debug\Watch7.FormDeleteInstallation.resources
+C:\Users\matia\OneDrive\Escritorio\SIEMENS WATCH7 2\Watch7 C\Watch7\Watch7\obj\Debug\Watch7.FormDeleteZone.resources
+C:\Users\matia\OneDrive\Escritorio\SIEMENS WATCH7 2\Watch7 C\Watch7\Watch7\obj\Debug\Watch7.FormNewCPU.resources
+C:\Users\matia\OneDrive\Escritorio\SIEMENS WATCH7 2\Watch7 C\Watch7\Watch7\obj\Debug\Watch7.FormNewEquipament.resources
+C:\Users\matia\OneDrive\Escritorio\SIEMENS WATCH7 2\Watch7 C\Watch7\Watch7\obj\Debug\Watch7.FormNewInstalacion.resources
+C:\Users\matia\OneDrive\Escritorio\SIEMENS WATCH7 2\Watch7 C\Watch7\Watch7\obj\Debug\Watch7.FormNewZone.resources
+C:\Users\matia\OneDrive\Escritorio\SIEMENS WATCH7 2\Watch7 C\Watch7\Watch7\obj\Debug\Watch7.Properties.Resources.resources
+C:\Users\matia\OneDrive\Escritorio\SIEMENS WATCH7 2\Watch7 C\Watch7\Watch7\obj\Debug\Watch7.csproj.GenerateResource.cache
+C:\Users\matia\OneDrive\Escritorio\SIEMENS WATCH7 2\Watch7 C\Watch7\Watch7\obj\Debug\Watch7.csproj.CoreCompileInputs.cache
+C:\Users\matia\OneDrive\Escritorio\SIEMENS WATCH7 2\Watch7 C\Watch7\Watch7\obj\Debug\Watch7.exe
+C:\Users\matia\OneDrive\Escritorio\SIEMENS WATCH7 2\Watch7 C\Watch7\Watch7\obj\Debug\Watch7.pdb

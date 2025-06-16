@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Watch7", "Watch7\Watch7.csproj", "{FF8FE4D4-816B-4765-8253-5706156A5D77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF8FE4D4-816B-4765-8253-5706156A5D77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF8FE4D4-816B-4765-8253-5706156A5D77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF8FE4D4-816B-4765-8253-5706156A5D77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF8FE4D4-816B-4765-8253-5706156A5D77}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5BA1D817-F54D-4C0B-BD70-D17C83AA7682}
+	EndGlobalSection
+EndGlobal
